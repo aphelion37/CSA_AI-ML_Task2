@@ -16,6 +16,6 @@ A simple Linear Regression project that predicts exoplanet equilibrium temperatu
 ### How to Run
 Keep the CSV and notebook in the same folder and run all notebook cells.
 
-###Further Notes
+### Further Notes
 The WRITEUP topics are split b/w the README and the markdowns and comments in the Jupyter Notebook.
 
